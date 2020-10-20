@@ -1,7 +1,7 @@
 {
   "author": "chandlercrane",
   "project_name": "My MATLAB Project",
-  "feature_file": "README.txt",
+  "feature_file": "README.md",
   "ignore": [],
   "include": []
 }
