@@ -1,7 +1,7 @@
 {
   "author": "chandlercrane",
-  "project_name": "My MATLAB Project",
+  "folder_name": "My MATLAB Project",
   "feature_file": "Triangulate.m",
   "ignore": [],
-  "include": []
+  "startup": ""
 }
